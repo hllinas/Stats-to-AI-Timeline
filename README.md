@@ -1,6 +1,8 @@
 # STATISTICAL TIMELINE 
 ## From Classical Statistics to Modern AI
 
+**Updated:** June 22, 2025
+
 This project presents an interactive timeline highlighting key milestones in the history of statistics, tracing its evolution from foundational figures like **De Moivre** and **Bayes** to modern developments in **artificial intelligence** and **deep learning**.
 
 The visualization was developed in **RStudio** using the [`r2d3`](https://cran.r-project.org/web/packages/r2d3/index.html) package, which enables the integration of D3.js graphics into R.
