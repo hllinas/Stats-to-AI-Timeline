@@ -16,13 +16,13 @@ The visualization was developed in **RStudio** using the [`r2d3`](https://cran.r
 
 This repository includes all relevant files used to build the timeline:
 
-- `Historia.Rmd` – R Markdown file with the full timeline script  
+- `Historia.Rmd` – R Markdown file with the full timeline script
+- `Historia.html` – Interactive timeline in HTML format, generated from the R Markdown file
 - `script.js` – JavaScript code used in the `r2d3` visualization  
 - `DataBase.xlsx` – Excel file containing the historical data  
-- `History multivariado.Rproj` – RStudio project file  
-- `.Rhistory` – R console command history  
-- `README.md` – Project description and citation info
+- `.Rhistory` – R console command history
 
+> When you hover the mouse pointer over the tip of each arrow, a tooltip displays the description of the historical event, as specified in the Excel file.
 ---
 
 ### Project Details
