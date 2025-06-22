@@ -1,4 +1,5 @@
-# Statistical Timeline: From Classical Statistics to Modern AI
+# STATISTICAL TIMELINE: 
+## From Classical Statistics to Modern AI
 
 This project presents an interactive timeline highlighting key milestones in the history of statistics, tracing its evolution from foundational figures like **De Moivre** and **Bayes** to modern developments in **artificial intelligence** and **deep learning**.
 
