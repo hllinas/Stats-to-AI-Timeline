@@ -51,10 +51,6 @@ To cite this repository in your academic work, teaching, or research:
 
 #### APA style
 
-> ## 📌 Citation
-
-If you use this repository in your academic work, please cite it as follows (APA style):
-
 > Llinás, H., Rangel, A., & Nuñez, D. (2025). *Statistical timeline: From classical statistics to modern AI* [GitHub repository].
   GitHub. https://github.com/hllinas/Stats-to-AI-Timeline
 
