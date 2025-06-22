@@ -1,0 +1,60 @@
+---
+title: "STATISTICAL TIMELINE"
+subtitle: <h1>**From Classical Statistics to Modern AI**</h1>
+
+author: 
+  - name          : "Dr. rer. nat. Humberto LLinás Solano"
+    affiliation   : "Department of Mathematics and Statistics, Universidad del Norte (Barranquilla, Colombia)"
+     #corresponding : yes    # Define only one corresponding author
+     #address       : "Departamento de Matemáticas y Estadística"
+    email         : |
+      hllinas@uninorte.edu.co
+      
+      [Biographical sketch](https://rpubs.com/hllinas/Bio_Sketch)
+      
+      `r format(Sys.time(), "%d/%m/%y")` 
+    
+output: 
+  bookdown::html_document2: 
+    toc: true      
+    toc_depth: 4   
+    toc_float: true 
+    collapsed: false
+    smooth_scroll: false
+    number_sections: true   
+    html_document:
+      fig_caption: true
+      css: styles.css
+csl: science.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align = "center", message = FALSE, warning = FALSE)
+library(htmltools)
+library(readxl)
+library(r2d3)
+datos <- read_xlsx("DataBase.xlsx")
+
+library(jsonlite)
+json_data <- toJSON(datos)
+
+```
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+<!-- Separador  -->
+
+# Timeline
+
+Figure \@ref(fig:Fig-LineTime) presents a chronological timeline of key milestones in the history of statistics. The accompanying Excel file contains detailed descriptions of each event.
+
+<center>
+
+```{r Fig-LineTime, echo=FALSE, fig.cap = "Chronological timeline of the history of statistics."}
+r2d3(data = json_data,
+     script = "script.js")
+```
+
+</center>
