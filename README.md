@@ -13,7 +13,7 @@ The timeline can be viewed at [this RPubs link](https://rpubs.com/hllinas/R_Stat
 
 An example of how the timeline looks (without interactivity) is shown in the image below:  
 
-![image](Timeline1.png)
+![image](https://drive.google.com/file/d/12T6cHLgP3FoV0Xxiw97uUqkT49Cvto45/view?usp=sharing)
 
 ### Project Files
 
