@@ -24,7 +24,6 @@ This repository includes all relevant files used to build the timeline:
 - `script.js` – JavaScript code used in the `r2d3` visualization  
 - `DataBase.xlsx` – Excel file containing the historical data
 - `Timeline1.png` – Static image preview of the timeline (non-interactive version)  
-- `.Rhistory` – R console command history
 
 > When you hover the mouse pointer over the tip of each arrow, a tooltip displays the description of the historical event, as specified in the Excel file.
 ---
