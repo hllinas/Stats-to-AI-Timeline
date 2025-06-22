@@ -35,9 +35,9 @@ This repository includes all relevant files used to build the timeline:
 
 ### Contributors
 
-- Alexander Rangel  
-- Daniela Nuñez  
-- Humberto Llinás
+- Humberto Llinás (hllinas@uninorte.edu.co)
+- Alexander Rangel (alexanderrangel@uninorte.edu.co) 
+- Daniela Nuñez (nunezdm@uninorte.edu.co)
 
 ### License
 
@@ -51,7 +51,6 @@ To cite this repository in your academic work, teaching, or research:
 
 > Llinás, H. (2025). *STATISTICAL TIMELINE: From Classical Statistics to Modern AI* [GitHub repository].
                     GitHub. [https://github.com/usuario/statistical-timeline](https://github.com/hllinas/Stats-to-AI-Timeline/tree/main)
-
 
 #### BibTeX
 
