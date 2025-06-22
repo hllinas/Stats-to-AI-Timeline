@@ -1,4 +1,4 @@
-# STATISTICAL TIMELINE: 
+# STATISTICAL TIMELINE 
 ## From Classical Statistics to Modern AI
 
 This project presents an interactive timeline highlighting key milestones in the history of statistics, tracing its evolution from foundational figures like **De Moivre** and **Bayes** to modern developments in **artificial intelligence** and **deep learning**.
@@ -46,7 +46,7 @@ To cite this repository in your academic work, teaching, or research:
 
 #### APA style
 
-> Llinás, H. (2025). *Statistical Timeline: From Classical Statistics to Modern AI* [GitHub repository].
+> Llinás, H. (2025). *STATISTICAL TIMELINE: From Classical Statistics to Modern AI* [GitHub repository].
                     GitHub. [https://github.com/usuario/statistical-timeline](https://github.com/hllinas/Stats-to-AI-Timeline/tree/main)
 
 
@@ -55,7 +55,7 @@ To cite this repository in your academic work, teaching, or research:
 ```bibtex
 @misc{llinas2025timeline,
   author       = {Humberto Llinás},
-  title        = {Statistical Timeline: From Classical Statistics to Modern AI},
+  title        = {STATISTICAL TIMELINE: From Classical Statistics to Modern AI},
   year         = {2025},
   howpublished = {\url{https://github.com/usuario/statistical-timeline}},
   note         = {GitHub repository}
