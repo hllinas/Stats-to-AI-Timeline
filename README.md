@@ -47,6 +47,7 @@ To cite this repository in your academic work, teaching, or research
 
 ```bibtex
 Llinás, H. (2025). *Statistical Timeline: From Classical Statistics to Modern AI* [GitHub repository]. GitHub. https://github.com/usuario/statistical-timeline
+```
 
 #### BibTeX
 
