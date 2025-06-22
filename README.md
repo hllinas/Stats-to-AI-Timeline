@@ -37,7 +37,7 @@ This repository includes all relevant files used to build the timeline:
 
 ### Contributors
 
-- Humberto Llinás (hllinas@uninorte.edu.co)
+- Dr. rer. nat. Humberto Llinás (hllinas@uninorte.edu.co)
 - Alexander Rangel (alexanderrangel@uninorte.edu.co) 
 - Daniela Nuñez (nunezdm@uninorte.edu.co)
 
