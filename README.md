@@ -15,6 +15,8 @@ An example of how the timeline looks (without interactivity) is shown in the ima
 
 ![image](https://drive.google.com/file/d/12T6cHLgP3FoV0Xxiw97uUqkT49Cvto45/view?usp=sharing)
 
+![Timeline Preview](./Timeline1.png)
+
 ### Project Files
 
 This repository includes all relevant files used to build the timeline:
