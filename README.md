@@ -24,3 +24,19 @@ The visualization was developed in **RStudio** using the [`r2d3`](https://cran.r
 This project is for educational and academic purposes. Please cite accordingly if you use or adapt it.
 
 
+## Citation
+
+If you use this repository for your work, teaching, or research, please cite it as follows (APA style):
+
+> Llinás, H. (2025). *Statistical Timeline: From Classical Statistics to Modern AI* [GitHub repository]. GitHub. https://github.com/usuario/statistical-timeline
+
+### BibTeX
+
+```bibtex
+@misc{llinas2025timeline,
+  author       = {Humberto Llinás},
+  title        = {Statistical Timeline: From Classical Statistics to Modern AI},
+  year         = {2025},
+  howpublished = {\url{https://github.com/usuario/statistical-timeline}},
+  note         = {GitHub repository}
+}
