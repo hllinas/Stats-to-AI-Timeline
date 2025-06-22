@@ -19,8 +19,8 @@ An example of how the timeline looks (without interactivity) is shown in the ima
 
 This repository includes all relevant files used to build the timeline:
 
-- `Historia.Rmd` – R Markdown file with the full timeline script
-- `Historia.html` – Interactive timeline in HTML format, generated from the R Markdown file
+- `History.Rmd` – R Markdown file with the full timeline script
+- `History.html` – Interactive timeline in HTML format, generated from the R Markdown file
 - `script.js` – JavaScript code used in the `r2d3` visualization  
 - `DataBase.xlsx` – Excel file containing the historical data
 - `Timeline1.png` – Static image preview of the timeline (non-interactive version)  
