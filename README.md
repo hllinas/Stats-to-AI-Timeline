@@ -7,10 +7,11 @@ This project presents an interactive timeline highlighting key milestones in the
 
 The visualization was developed in **RStudio** using the [`r2d3`](https://cran.r-project.org/web/packages/r2d3/index.html) package, which enables the integration of D3.js graphics into R.
 
-**Live demo:** [View timeline on RPubs](https://rpubs.com/hllinas/R_Multivariado_Historia)
+**Live demo:** The timeline can be viewed at [this RPubs link](https://rpubs.com/hllinas/R_Stat_to_AI_Timeline), which serves as the main visualization. An applied version is also available in [another set of lecture notes](https://rpubs.com/hllinas/R_Multivariado_Historia).
+
+An example of how the timeline looks (without interactivity) is shown in the image below:  
 
 ![image](https://github.com/user-attachments/assets/6d308360-0c64-4a49-a423-a2cda9edd8db)
-
 
 ### Project Files
 
