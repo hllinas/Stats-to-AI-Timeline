@@ -41,7 +41,7 @@ This project is intended for educational and academic use. If you use or adapt a
 
 ### Citation
 
-To cite this repository in your academic work, teaching, or research
+To cite this repository in your academic work, teaching, or research:
 
 #### APA style
 
