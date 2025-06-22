@@ -25,7 +25,8 @@ This repository includes all relevant files used to build the timeline:
 - `DataBase.xlsx` – Excel file containing the historical data
 - `Timeline1.png` – Static image preview of the timeline (non-interactive version)  
 
-> When you hover the mouse pointer over the tip of each arrow, a tooltip displays the description of the historical event, as specified in the Excel file.
+> When you hover the mouse pointer over each arrow, a tooltip displays the description of the historical event, as specified in the Excel file.  
+To update the timeline, simply modify the data in the Excel file and re-run the R Markdown (`.Rmd`) script to generate the new output.
 ---
 
 ### Project Details
