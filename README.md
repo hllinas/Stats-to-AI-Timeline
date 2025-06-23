@@ -72,12 +72,10 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 This project is intended for educational and academic use. If you use or adapt any part of it, please make sure to cite it appropriately.
 
 ### 8. Citation
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
 
 To cite this repository in your academic work, teaching, or research:
 
 #### APA style
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
 
 > Llinás, H., Rangel, A., & Nuñez, D. (2025). *Statistical timeline: From classical statistics to modern AI* [GitHub repository].
   GitHub. https://github.com/hllinas/Stats-to-AI-Timeline
