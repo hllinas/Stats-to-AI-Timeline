@@ -38,9 +38,12 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 
 ### Contributors
 
-- Dr. rer. nat. Humberto Llinás (hllinas@uninorte.edu.co)
-- Alexander Rangel (alexanderrangel@uninorte.edu.co) 
-- Daniela Nuñez (nunezdm@uninorte.edu.co)
+- Dr. rer. nat. Humberto Llinás Solano (hllinas@uninorte.edu.co)¹ 
+- Alexander Rangel Vizcaíno (alexanderrangel@uninorte.edu.co)¹
+- Daniela Nuñez Guzmán (nunezdm@uninorte.edu.co)¹
+
+  > ¹ Department of Mathematics and Statistics, Universidad del Norte, Barranquilla, Colombia.
+---
 
 ### License
 
