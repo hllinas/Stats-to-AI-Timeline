@@ -3,6 +3,7 @@
 
 **Updated:** June 22, 2025
 
+---
 ### 1. Table of Contents
 - [2. Description](#2-description)
 - [3. Live demo](#3-live-demo)
@@ -13,9 +14,9 @@
 - [8. Citation](#8-citation)
   - [APA style](#apa-style)
   - [BibTeX](#bibtex)
+---
 
 ### 2. Description
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
 
 This project presents an interactive timeline highlighting key milestones in the history of statistics, tracing its evolution from foundational figures like **De Moivre** and **Bayes** to modern developments in **artificial intelligence** and **deep learning**.
 
