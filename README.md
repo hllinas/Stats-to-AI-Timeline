@@ -56,7 +56,7 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 - **Output:** Interactive D3-based timeline  
 - **Focus:** Historical development of statistical theory and its connection to modern AI  
 
-### 6. Contributors
+### 5. Contributors
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 - Dr. rer. nat. Humberto Llinás Solano (hllinas@uninorte.edu.co)¹ 
@@ -66,12 +66,12 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
   > ¹ Department of Mathematics and Statistics, Universidad del Norte, Barranquilla, Colombia.
 ---
 
-### 5. License
+### 6. License
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 This project is intended for educational and academic use. If you use or adapt any part of it, please make sure to cite it appropriately.
 
-### 6. Citation
+### 7. Citation
 
 To cite this repository in your academic work, teaching, or research:
 
