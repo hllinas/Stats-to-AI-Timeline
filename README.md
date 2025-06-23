@@ -16,7 +16,7 @@
   - [BibTeX](#bibtex)
 ---
 
-### 2. Description
+### 1. Description
 
 This project presents an interactive timeline highlighting key milestones in the history of statistics, tracing its evolution from foundational figures like **De Moivre** and **Bayes** to modern developments in **artificial intelligence** and **deep learning**.
 
@@ -24,7 +24,7 @@ The visualization was developed in `RStudio` using the [`r2d3`](https://cran.r-p
 
 ---
 
-### 3. Live demo
+### 2. Live demo
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 The timeline can be viewed at [this RPubs link](https://rpubs.com/hllinas/R_Stat_to_AI_Timeline), which serves as the main visualization. An applied version is also available in [another set of lecture notes](https://rpubs.com/hllinas/R_Multivariado_Historia).
@@ -33,7 +33,7 @@ An example of how the timeline looks (without interactivity) is shown in the ima
 
 ![Timeline Preview](./Timeline1.png)
 
-### 4. Project Files
+### 3. Project Files
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 This repository includes all relevant files used to build the timeline:
@@ -48,7 +48,7 @@ This repository includes all relevant files used to build the timeline:
 To update the timeline, simply modify the data in the Excel file and re-run the R Markdown (`.Rmd`) script to generate the new output.
 ---
 
-### 5. Project Details
+### 4. Project Details
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 - **Tool:** RStudio  
@@ -66,12 +66,12 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
   > ¹ Department of Mathematics and Statistics, Universidad del Norte, Barranquilla, Colombia.
 ---
 
-### 7. License
+### 5. License
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 This project is intended for educational and academic use. If you use or adapt any part of it, please make sure to cite it appropriately.
 
-### 8. Citation
+### 6. Citation
 
 To cite this repository in your academic work, teaching, or research:
 
