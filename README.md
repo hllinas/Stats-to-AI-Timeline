@@ -4,14 +4,14 @@
 **Updated:** June 22, 2025
 
 ---
-### 1. Table of Contents
-- [2. Description](#2-description)
-- [3. Live demo](#3-live-demo)
-- [4. Project Files](#4-project-files)
-- [5. Project Details](#5-project-details)
-- [6. Contributors](#6-contributors)
-- [7. License](#7-license)
-- [8. Citation](#8-citation)
+### Table of Contents
+- [1. Description](#1-description)
+- [2. Live demo](#2-live-demo)
+- [3. Project Files](#3-project-files)
+- [4. Project Details](#4-project-details)
+- [5. Contributors](#5-contributors)
+- [6. License](#6-license)
+- [7. Citation](#7-citation)
   - [APA style](#apa-style)
   - [BibTeX](#bibtex)
 ---
@@ -25,7 +25,7 @@ The visualization was developed in `RStudio` using the [`r2d3`](https://cran.r-p
 ---
 
 ### 3. Live demo
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
+<p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 The timeline can be viewed at [this RPubs link](https://rpubs.com/hllinas/R_Stat_to_AI_Timeline), which serves as the main visualization. An applied version is also available in [another set of lecture notes](https://rpubs.com/hllinas/R_Multivariado_Historia).
 
@@ -34,7 +34,7 @@ An example of how the timeline looks (without interactivity) is shown in the ima
 ![Timeline Preview](./Timeline1.png)
 
 ### 4. Project Files
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
+<p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 This repository includes all relevant files used to build the timeline:
 
@@ -49,7 +49,7 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 ---
 
 ### 5. Project Details
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
+<p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 - **Tool:** RStudio  
 - **Library:** `r2d3`  
@@ -57,7 +57,7 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 - **Focus:** Historical development of statistical theory and its connection to modern AI  
 
 ### 6. Contributors
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
+<p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 - Dr. rer. nat. Humberto Llinás Solano (hllinas@uninorte.edu.co)¹ 
 - Alexander Rangel Vizcaíno (alexanderrangel@uninorte.edu.co)¹
@@ -67,7 +67,7 @@ To update the timeline, simply modify the data in the Excel file and re-run the 
 ---
 
 ### 7. License
-<p style="font-size: 0.1em;">🔝 <a href="#1-table-of-contents">Toc</a></p>
+<p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
 
 This project is intended for educational and academic use. If you use or adapt any part of it, please make sure to cite it appropriately.
 
