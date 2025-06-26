@@ -87,7 +87,7 @@ To cite this repository in your academic work, teaching, or research:
 
 ```bibtex
 @misc{llinas2025timeline,
-  author       = {Humberto Llinás, Alexánder Rangel, Daniela Nuñez},
+  author       = {Humberto Llinás, Alexander Rangel, Daniela Nuñez},
   title        = {Statistical timeline: From Classical Statistics to Modern AI},
   year         = {2025},
   howpublished = {\url{https://github.com/usuario/statistical-timeline}},
