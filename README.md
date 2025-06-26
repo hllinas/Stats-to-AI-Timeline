@@ -5,7 +5,6 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/hllinas/Stats-to-AI-Timeline?style=flat&color=blue)
 
-
 ---
 ### Table of Contents
 - [1. Description](#1-description)
